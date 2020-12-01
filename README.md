@@ -1,1 +1,1 @@
-# Leetcode-December-20
+The Leetcode December 30 days challenge.
